@@ -1,4 +1,4 @@
-# Python API & OOP Assignment
+# Python Assignments
 **MASAI X IIT Collaborative Training Program**
 
 A comprehensive Python learning repository featuring Object-Oriented Programming (OOP) fundamentals and HTTP API interactions using the `requests` library.
@@ -310,12 +310,3 @@ This is a learning repository. Improvements, bug fixes, and enhancements are wel
 ## 📝 License
 
 This project is part of the MASAI X IIT collaborative training program.
-
-## 👨‍🏫 Learning Outcomes
-
-After completing all exercises, you will understand:
-- ✅ How to design and implement classes with proper OOP principles
-- ✅ How to make HTTP requests and handle responses
-- ✅ How to build resilient APIs with error handling
-- ✅ How to create CLI tools for interacting with APIs
-- ✅ Best practices for Python code organization and style
